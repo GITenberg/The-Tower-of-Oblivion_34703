@@ -1,0 +1,33 @@
+_repo: The-Tower-of-Oblivion_34703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Onions, Oliver
+    alias: Oliver, George
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '5392'
+    url: http://www.gutenberg.org/2009/agents/5392
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Onions
+description: An idiosyncratic, highly original writer who is credited with developing
+  the genre of psychological horror, Oliver Onions also tried his hand at science
+  fiction, steering clear of the obvious ""little green men"" approach and opting
+  instead for a style far more subtle and engaging. In The Tower of Oblivion, the
+  narrator befriends a fellow scribe whose life has taken a bizarre turn. What's the
+  truth behind his shocking secret? Read The Tower of Oblivion to find out.
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+title: The Tower of Oblivion
+url: http://www.gutenberg.org/ebooks/34703
